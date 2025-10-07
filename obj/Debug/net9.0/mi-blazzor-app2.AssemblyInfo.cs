@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mi-blazzor-app2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+019336b5fd2e1bab088f8c9fa9976c859e6e70ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("mi-blazzor-app2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mi-blazzor-app2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
